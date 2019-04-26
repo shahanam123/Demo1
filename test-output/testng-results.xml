@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2019-04-26T07:05:58Z" finished-at="2019-04-26T07:05:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2019-04-26T07:05:58Z" finished-at="2019-04-26T07:05:58Z">
+      <class name="firstpackage.Firstclass">
+        <test-method status="PASS" signature="h()[pri:0, instance:firstpackage.Firstclass@5afa04c]" name="h" duration-ms="12" started-at="2019-04-26T07:05:58Z" finished-at="2019-04-26T07:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+      </class> <!-- firstpackage.Firstclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
